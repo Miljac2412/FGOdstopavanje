@@ -1,0 +1,1 @@
+<html><head><meta content="text/html; charset=UTF-8" http-equiv="content-type"><title>Gmail - Pogreška preuzimanja</title></head><body>Iz sigurnosnih razloga Gmail ne dopušta upotrebu te vrste datoteka jer ona krši Googleovo pravilo o izvršnim datotekama i arhivama.</body></html>
